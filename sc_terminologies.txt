@@ -1,0 +1,119 @@
+Starcraft
+Starcraft 2
+Imba
+Terran
+Zerg
+Protoss
+Banshee
+Battlecruiser
+Ghost
+Hellion
+Marauder
+Marine
+Medivac
+MULE
+Raven
+Reaper
+SCV
+Siege Tank
+Thor
+Viking
+Auto-Turrent
+Armory
+Barracks
+Bunker
+Command Center
+Orbital
+Planetary Fortress
+Engineer Bay
+Factory
+Fusion Core
+Ghost Academy
+Missile Turret
+Sensor Tower
+Starport
+Supply Depot
+Reactor
+Tech Lab
+Hellbat
+Widow Mine
+Liberator
+Cyclone
+Corruptor
+Broodlord
+Drone
+Hydralisk
+Infestor
+Larva
+Mutalisk
+Overlord
+Overseer
+Queen
+Roach
+Ultralisk
+Ling
+Zergling
+Baneling
+Broodling
+Changeling
+Infested Terran
+Baneling Nest
+Creep Tumor
+Evolution Chamber
+Extractor
+Hatchery
+Lair
+Hive
+Hydra den
+Infestation Pit
+Nydus Network
+Nydus Worm
+Roach Warren
+Spawning Pool
+Spine Crawler
+Spire
+Greater Spire
+Spore Crawler
+Ultralisk Cavern
+Swarm Host
+Viper
+Lurker
+Ravager
+Lurker Den
+Archon
+Carrier
+Colossus
+Dark Templar
+High Templar
+Immortal
+Mothership
+Observer
+Phoenix
+Probe
+Sentry
+Stalker
+Void Ray
+Warp Prism
+Zealot
+Assimilator
+Cybernetics Core
+Dark Shrine
+Fleet Beacon
+Forge
+Gateway
+Nexus
+Photon Cannon
+Pylon
+Robotics Facility
+Robotics Bay
+Stargate
+Templar Archives
+Twilight Council
+Warp Gate
+Oracle
+Tempest
+Mothership Core
+Adept
+Disruptor
+Shield Battery
+Stasis Ward

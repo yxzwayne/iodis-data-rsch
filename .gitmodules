@@ -1,0 +1,3 @@
+[submodule "scripts/mlx_parallm"]
+	path = scripts/mlx_parallm
+	url = git@github.com:willccbb/mlx_parallm.git
