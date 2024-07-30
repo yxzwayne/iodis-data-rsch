@@ -1,11 +1,13 @@
 Starcraft
 Starcraft 2
 Imba
+barcode
+MMR
 Terran
 Zerg
 Protoss
 Banshee
-Battlecruiser
+Battlecruiser (often abbreviated as "BC")
 Ghost
 Hellion
 Marauder
@@ -18,7 +20,7 @@ SCV
 Siege Tank
 Thor
 Viking
-Auto-Turrent
+Auto-Turret
 Armory
 Barracks
 Bunker
@@ -83,7 +85,7 @@ Lurker Den
 Archon
 Carrier
 Colossus
-Dark Templar
+Dark Templar (often abbreviated as "DT")
 High Templar
 Immortal
 Mothership
